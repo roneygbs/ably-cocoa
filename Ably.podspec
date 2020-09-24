@@ -23,6 +23,5 @@ Pod::Spec.new do |s|
   s.dependency 'KSCrashAblyFork', '1.15.20-ably-6'
   s.dependency 'msgpack', '0.3.1'
   s.dependency 'ULID', '1.1.0'
-  s.dependency 'SAMKeychain', '1.5.3'
   s.dependency 'AblyDeltaCodec', '1.2.0'
 end

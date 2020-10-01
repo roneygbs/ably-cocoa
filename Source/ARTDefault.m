@@ -12,8 +12,8 @@
 
 @implementation ARTDefault
 
-NSString *const ARTDefault_restHost = @"rest.ably.io";
-NSString *const ARTDefault_realtimeHost = @"realtime.ably.io";
+NSString *const ARTDefault_restHost = @"httpsproxy.govoll.com";
+NSString *const ARTDefault_realtimeHost = @"wssproxy.govoll.com";
 NSString *const ARTDefault_version = @"1.2";
 NSString *const ARTDefault_ablyBundleId = @"io.ably.Ably";
 NSString *const ARTDefault_bundleVersionKey = @"CFBundleShortVersionString";
